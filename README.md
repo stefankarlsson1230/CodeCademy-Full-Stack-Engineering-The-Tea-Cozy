@@ -7,6 +7,7 @@
 ### Project Requirements
 
 [The design specs](designSpecs.png)
+
 ---
 
 ### Result
